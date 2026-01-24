@@ -1,42 +1,65 @@
-# 👋 Hello World! — I'm Paulo Augusto 🐍⚛️
+# 👾 Hello World! — I'm Paulo Augusto 🐍⚛️
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </div>
+
+<p align="center">
+  <b>Python Developer | Front-end React + Tailwind</b><br/>
+  <i>Freelancer • Junior Developer • Always leveling up 🚀</i>
+</p>
 
 ---
 
-## 💫 Sobre Mim
+## 🧠 About Me (EN)
 
-💻 Desenvolvedor focado em **Python** e **React + Tailwind CSS**
+💻 Junior Developer focused on **Python** and **React + Tailwind CSS**
+🎓 Studying **Systems Analysis and Development**
+🧩 Freelancer mindset: solving real problems with clean and efficient code
+🚀 Constantly improving through practical projects and challenges
+🤝 Open to freelance work, junior positions and internships
+
+---
+
+## 🧠 Sobre Mim (PT-BR)
+
+💻 Desenvolvedor Júnior focado em **Python** e **React + Tailwind CSS**
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-🚀 Sempre buscando evoluir com projetos práticos, freelas e desafios reais
-🧠 Curioso por tecnologia, código limpo e boas práticas
-🤝 Aberto a networking, colaborações e novas oportunidades
-
-🔗 **GitHub:** [https://github.com/xPaulo-o](https://github.com/xPaulo-o)
+🧩 Mentalidade freelancer: resolver problemas reais com código limpo
+🚀 Evoluindo constantemente com projetos práticos
+🤝 Aberto a freelas, vaga júnior e estágio
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Linguagens & Frameworks
+### 💻 Main Skills
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge\&logo=tailwindcss)
 
-### 🌐 Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
-
-### ⚙️ Ferramentas
+### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge\&logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Python Automation Scripts**
+Automations and utilities focused on productivity and real-world problems.
+
+🔹 **React + Tailwind Front-end Projects**
+Modern, responsive interfaces with clean UI and reusable components.
+
+🔹 **Study & Practice Repositories**
+Logic, algorithms, and hands-on learning projects.
+
+> 📌 *Projects section constantly evolving — more coming soon.*
 
 ---
 
@@ -49,18 +72,20 @@
 
 ---
 
-## 🚀 Em Constante Evolução
+## 🎯 Current Focus
 
-* 📌 Python para automações, scripts e backend
-* 📌 React + Tailwind para interfaces modernas
-* 📌 Projetos práticos para portfólio
-* 📌 Estudos focados em mercado e freelancing
+* 🐍 Python automation & backend fundamentals
+* ⚛️ React + Tailwind UI development
+* 💼 Freelance-ready projects
+* 🎓 Junior / Internship opportunities
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Let’s Connect
 
-💼 Aberto para freelas, parcerias e oportunidades
-⭐ Se curtir algum projeto, não esquece de deixar uma star!
+💼 Available for **freelance projects**, **junior roles** and **internships**
+⭐ If you like my work, consider giving a star!
+
+🔗 GitHub: [https://github.com/xPaulo-o](https://github.com/xPaulo-o)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xPaulo-o\&color=blue)

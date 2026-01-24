@@ -31,6 +31,28 @@
 
 ---
 
+## 🧠 Sobre Mí (ES)
+
+💻 Desarrollador Junior enfocado en **Python** y **React + Tailwind CSS**
+🎓 Estudiante de **Análisis y Desarrollo de Sistemas**
+🧩 Mentalidad freelancer: resolver problemas reales con código limpio y eficiente
+🚀 En constante evolución a través de proyectos prácticos
+🤝 Abierto a trabajos freelance, posiciones junior y pasantías
+
+🔗 **Portfolio:** [https://xpaulo-o.github.io/Portfolio/](https://xpaulo-o.github.io/Portfolio/)
+
+---
+
+## 🧩 What Can I Do For You?
+
+✅ Automations and scripts with **Python**
+✅ Front-end interfaces using **React + Tailwind CSS**
+✅ Bug fixes, improvements and refactoring
+✅ Small to medium freelance projects
+✅ Clean, responsive and modern UI
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Main Skills

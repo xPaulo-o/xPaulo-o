@@ -32,15 +32,15 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Paulo GitHub stats](https://github.com/xPaulo-o)
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=xPaulo-o&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github.com/xPaulo-o)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xPaulo-o&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak (sequência de commits)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=xPaulo-o&theme=tokyonight)
 
 ---
 
@@ -57,14 +57,14 @@
 
 ## 📸 Preview / Visual
 
-![Preview](https://via.placeholder.com/800x400.png?text=Seu+Projeto+Aqui)
+![Preview](https://via.placeholder.com/800x400.png?text=https://portfolio-paulo-o.vercel.app/)
 
 ---
 
 ## 🌎 Conecte-se comigo
 
-[![Instagram](https://www.instagram.com/xpaulo_o2/)](#)
-[![LinkedIn](https://www.linkedin.com/in/paulo-augusto-b579513a1)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xpaulo_o2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-augusto-b579513a1)
 
 ---
 

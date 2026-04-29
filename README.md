@@ -39,7 +39,7 @@
 🚀 En constante evolución a través de proyectos prácticos
 🤝 Abierto a trabajos freelance, posiciones junior y pasantías
 
-🔗 **Portfolio:** [https://xpaulo-o.github.io/Portfolio/](https://xpaulo-o.github.io/Portfolio/)
+🔗 **Portfolio:** [https://portfolio-paulo-o.vercel.app/](https://portfolio-paulo-o.vercel.app/)
 
 ---
 

@@ -32,9 +32,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Paulo GitHub stats](https://github.com/xPaulo-o)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github.com/xPaulo-o)
 
 ---
 
@@ -63,8 +63,8 @@
 
 ## 🌎 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://www.instagram.com/xpaulo_o2/)](#)
+[![LinkedIn](https://www.linkedin.com/in/paulo-augusto-b579513a1)](#)
 
 ---
 

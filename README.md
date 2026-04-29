@@ -1,30 +1,80 @@
-# 👾 Hello World! — I'm Paulo Augusto 🐍⚛️
+# 👋 Olá, eu sou Paulo Augusto
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
-</div>
-
-<p align="center">
-  <b>Python Developer | Front-end React + Tailwind</b><br/>
-  <i>Freelancer • Junior Developer • Always leveling up 🚀</i>
-</p>
+💻 Desenvolvedor em evolução  
+🚀 Focado em criar projetos criativos e funcionais  
+🎯 Interesses: programação, segurança da informação e desenvolvimento de jogos  
 
 ---
 
-## 🧠 About Me (EN)
+## 🧠 Sobre mim
 
-💻 Junior Developer focused on **Python** and **React + Tailwind CSS**
-🎓 Studying **Systems Analysis and Development**
-🧩 Freelancer mindset: solving real problems with clean and efficient code
-🚀 Constantly improving through practical projects and challenges
-🤝 Open to freelance work, junior positions and internships
+- 🎮 Criando um jogo estilo *Typing Hero* (Guitar Hero de digitação)
+- 🔐 Estudando segurança da informação e pentest
+- 📚 Aprendendo constantemente novas tecnologias
+- ⚡ Sempre buscando melhorar minhas habilidades
 
 ---
 
-## 🧠 Sobre Mim (PT-BR)
+## 🚀 Tecnologias & Habilidades
 
-💻 Desenvolvedor Júnior focado em **Python** e **React + Tailwind CSS**
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+### 🧩 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Frontend
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak (sequência de commits)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
+
+---
+
+## 🧪 Projetos em destaque
+
+### 🎮 Typing Hero
+> Jogo estilo Guitar Hero onde você digita palavras no ritmo da música 🎵  
+
+- Sistema de combo
+- Palavras sincronizadas com BPM
+- Fases com músicas diferentes
+
+---
+
+## 📸 Preview / Visual
+
+![Preview](https://via.placeholder.com/800x400.png?text=Seu+Projeto+Aqui)
+
+---
+
+## 🌎 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+---
+
+## ⚡ Frase
+
+> "Código é como música: quando está bom, você sente."
+
+---
+
+⭐ Se curtir meus projetos, não esquece de dar uma estrela!🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 🧩 Mentalidade freelancer: resolver problemas reais com código limpo
 🚀 Evoluindo constantemente com projetos práticos
 🤝 Aberto a freelas, vaga júnior e estágio
